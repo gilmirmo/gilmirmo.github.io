@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gimirmo.me/categories/</loc>
+    <loc>http://gimirmo.me/</loc>
   </url>
   
   <url>
-    <loc>http://gimirmo.me/</loc>
+    <loc>http://gimirmo.me/categories/</loc>
   </url>
   
   <url>
