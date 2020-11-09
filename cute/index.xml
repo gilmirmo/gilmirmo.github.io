@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>amir&#39;s blog</title>
-    <link>http://gimirmo.me/</link>
-    <description>Recent content on amir&#39;s blog</description>
+    <title>Cutes on amir&#39;s blog</title>
+    <link>http://gimirmo.me/cute/</link>
+    <description>Recent content in Cutes on amir&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://gimirmo.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gimirmo.me/cute/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,11 +17,9 @@
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://gimirmo.me/cute/urcute/</guid>
-      
-        <description>We have a cute visitor! Oh no! this one doesn&amp;rsquo;t know yet :(
+      <description>We have a cute visitor! Oh no! this one doesn&amp;rsquo;t know yet :(
 You may not realize it, but you&amp;rsquo;re cute af!
 please stay with us to make this an even cuter place to hang out :)</description>
-      
     </item>
     
     <item>
@@ -30,10 +28,8 @@ please stay with us to make this an even cuter place to hang out :)</description
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://gimirmo.me/cute/validated/</guid>
-      
-        <description>We have a cute visitor! \ Your feelings have successfully validated!
+      <description>We have a cute visitor! \ Your feelings have successfully validated!
 Help us become even cuter by staying with us for a while :)</description>
-      
     </item>
     
   </channel>
