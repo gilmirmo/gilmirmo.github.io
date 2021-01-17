@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on amir&#39;s blog</title>
+    <link>http://gimirmo.me/post/</link>
+    <description>Recent content in Posts on amir&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jan 2021 13:43:10 +0100</lastBuildDate>
+    
+	<atom:link href="http://gimirmo.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On writing</title>
+      <link>http://gimirmo.me/post/journal/on_writing/</link>
+      <pubDate>Sun, 17 Jan 2021 13:43:10 +0100</pubDate>
+      
+      <guid>http://gimirmo.me/post/journal/on_writing/</guid>
+      <description>Writing used to be much easier! It used to be thought occurs → thought gets on paper It used to be fun and exciting, reflective, creative, romantic. It was simply an act of self expression: A poem about the lake that&amp;rsquo;s dried up, just because, lucky luke fan fiction in which he finally shoots the Doltons and puts an end to their frustrating cycle of escape and recapture, or quite simply an &amp;ldquo;I like you&amp;rdquo; to someone you just made friends with on the playground.</description>
+    </item>
+    
+  </channel>
+</rss>
