@@ -23,29 +23,13 @@
     </item>
     
     <item>
-      <title>Ur cute tho...</title>
-      <link>http://gimirmo.me/misc/cute/urcute/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://gimirmo.me/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gimirmo.me/misc/cute/urcute/</guid>
+      <guid>http://gimirmo.me/misc/</guid>
       
-        <description>We have a cute visitor!
-Oh no! this one doesn&amp;rsquo;t know yet :(
-You may not realize it, but you&amp;rsquo;re cute af!
-please stay with us to make this an even cuter place to hang out :)</description>
-      
-    </item>
-    
-    <item>
-      <title>Your feelings are valid!</title>
-      <link>http://gimirmo.me/misc/cute/validated/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://gimirmo.me/misc/cute/validated/</guid>
-      
-        <description>We have a cute visitor!
-Your feelings have been successfully validated!
-Help us become even cuter by staying with us for a while :)</description>
+        <description>headless: true </description>
       
     </item>
     
